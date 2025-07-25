@@ -1,0 +1,9 @@
+Through this HTML lesson,
+I learned how to structure a basic web
+form using the <form> tag. I implemented 
+various input fields such as text, email, and
+number, and linked them with <label> elements
+to enhance accessibility. The lesson also 
+demonstrated how to use built-in browser
+ validation through attributes like required, 
+ minlength, and max.
