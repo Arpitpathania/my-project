@@ -1,0 +1,26 @@
+This code creates a clean, modern-looking webpage 
+for a basic banking interface. It displays a central white card
+that shows your account balance in a light blue box. 
+Below the balance, it places two buttons side-by-side
+a green "Deposit" button and a red "Withdraw" button.
+Of course! Here's a simple, point-by-point explanation of what the code does.
+
+How html is used here : 
+The code creates a main white box (.bank-container) to hold everything.
+
+Inside this box, there's a light blue div to show the account balance.
+
+There's also a container (.btn-group) that holds the two buttons together.
+
+The two buttons, "Deposit" and "Withdraw," are given different class names so they can have different colors (green and red).
+
+How CSS is used in the code :
+Basic Setup: The code first removes all default browser spacing to ensure the page looks consistent everywhere.
+
+Centering the Box: It uses CSS to place the main white box perfectly in the center of the screen, both vertically and horizontally.
+
+Arranging the Buttons: The "Deposit" and "Withdraw" buttons are set up to appear side-by-side with a neat gap between them.
+
+Hover Effect: A simple effect is added so that the buttons change color slightly when you move your mouse over them.
+
+Mobile-Friendly Design: If the screen is narrow (like on a phone), the code automatically stacks the buttons on top of each other so they are easier to tap.
