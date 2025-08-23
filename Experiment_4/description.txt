@@ -1,0 +1,39 @@
+HTML Structure
+The page is kept really simple and clean.
+
+Main Container: Everything sits inside a small box (400px wide) that holds the title, the text area where you type, and the character counter below it.
+
+Heading: At the top, there’s a heading that just says “Live Character Counter” so you instantly know what the tool does.
+
+Textarea: Right under the heading, there’s a text box where you can start typing. It comes with a little placeholder message (“Start typing...”) to guide the user.
+
+Character Counter: Beneath the text box, there’s a line that shows how many characters you’ve typed, starting from zero.
+
+CSS Styling
+The styles keep everything neat, readable, and user-friendly.
+
+Overall Page: The page uses Arial font and some breathing space with margins so it doesn’t feel cramped.
+
+Container: The counter section is limited to a nice width (400px), so it doesn’t stretch too wide.
+
+Heading: The title has some spacing below so it doesn’t stick to the text box.
+
+Textarea: The typing box is large enough (100px high), spans the full width, and has padding so the text doesn’t touch the edges. The resize option is turned off so the box always stays the same size.
+
+Counter Text: The live counter below the box is bold and spaced slightly apart to make it noticeable.
+
+JavaScript Functionality
+The JavaScript is very straightforward—it just makes the counter work.
+
+As soon as you type in the text box, the script listens for your input.
+
+Every character you add (or delete) updates the number instantly.
+
+The number you see is simply the length of whatever’s in the text box.
+
+Learning outcomes : 
+How to create a basic interactive web feature with HTML, CSS, and a tiny bit of JavaScript.
+
+How to listen to user input and react to it in real time.
+
+How to keep a design simple but still functional and easy to use.
